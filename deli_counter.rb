@@ -8,7 +8,7 @@ def line(katz_deli)
     katz_deli.each_with_index do |name,index|
      names <<" #{index+1}. #{name}"
    end
-puts names
+      puts names
     end
  end
  def now_serving
