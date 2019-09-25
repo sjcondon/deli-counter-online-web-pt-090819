@@ -17,5 +17,6 @@ else now_serving.empty?
   puts "There is nobody waiting to be served!"
 end
 end
+end
 
   
